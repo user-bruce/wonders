@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #d45be7;
+  color: #F58220;
 }
 
 a:hover {
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #d45be7;
+  background: #F58220;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -88,7 +88,7 @@ h6 {
 }
 
 #topbar i {
-  color: #d45be7;
+  color: #F58220;
   line-height: 0;
 }
 
@@ -135,15 +135,16 @@ h6 {
 
 #header .logo img {
   padding: 0;
-  margin: 0;
-  max-height: 40px;
+  margin: 4px 0px;
+  max-height: 68px;
+  border-radius: 40px;
 }
 
 /*--------------------------------------------------------------
 # Book a table button Menu
 --------------------------------------------------------------*/
 .book-a-table-btn {
-  background: #ff6eff;
+  background: #A6CE39;
   color: #fff;
   border-radius: 50px;
   margin: 0 0 0 20px;
@@ -156,7 +157,7 @@ h6 {
 }
 
 .book-a-table-btn:hover {
-  background: #ff6eff;
+  background: #A6CE39;
   color: #fff;
 }
 
@@ -214,7 +215,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #d45be7;
+  color: #F58220;
 }
 
 .navbar .dropdown ul {
@@ -251,7 +252,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #d45be7;
+  color: #F58220;
 }
 
 .navbar .dropdown:hover>ul {
@@ -347,7 +348,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #d45be7;
+  color:#F58220;
 }
 
 .navbar-mobile .getstarted,
@@ -382,7 +383,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #d45be7;
+  color: #F58220;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -441,7 +442,7 @@ h6 {
 }
 
 #hero h2 span {
-  color: #d45be7;
+  color: #F58220;
 }
 
 #hero p {
@@ -519,12 +520,12 @@ h6 {
   margin: 0 10px;
   animation-delay: 0.8s;
   color: #fff;
-  border: 2px solid #d45be7;
+  border: 2px solid #F58220;
 }
 
 #hero .btn-menu:hover,
 #hero .btn-book:hover {
-  background: #d45be7;
+  background: #F58220;
   color: #fff;
 }
 
@@ -569,7 +570,7 @@ section {
 }
 
 .section-title h2 span {
-  color:#d45be7;
+  color:#F58220;
 }
 
 .section-title p {
@@ -689,7 +690,7 @@ section {
 
 .about .content ul i {
   font-size: 20px;
-  color: #d45be7;
+  color: #F58220;
   position: absolute;
   left: 0;
   top: 2px;
@@ -753,7 +754,7 @@ section {
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #d45be7;
+  border-left: 15px solid #F58220;
   transform: scale(20);
 }
 
@@ -838,7 +839,7 @@ section {
 }
 
 .why-us .box:hover {
-  background: #d45be7;
+  background: #F58220;
   padding: 30px 30px 70px 30px;
   box-shadow: 10px 15px 30px rgba(0, 0, 0, 0.18);
 }
@@ -871,14 +872,14 @@ section {
   margin: 0 3px 10px 3px;
   transition: all ease-in-out 0.3s;
   background: #fff;
-  border: 2px solid #d45be7;
+  border: 2px solid #F58220;
   border-radius: 50px;
 }
 
 .menu #menu-flters li:hover,
 .menu #menu-flters li.filter-active {
   color: #fff;
-  background: #d45be7;
+  background: #F58220;
 }
 
 .menu #menu-flters li:last-child {
@@ -951,12 +952,12 @@ section {
 }
 
 .specials .nav-link:hover {
-  color: #d45be7;
+  color: #F58220;
 }
 
 .specials .nav-link.active {
-  color: #d45be7;
-  border-color: #d45be7;
+  color: #F58220;
+  border-color: #F58220;
 }
 
 .specials .tab-pane.active {
@@ -986,7 +987,7 @@ section {
 
   .specials .nav-link.active {
     color: #fff;
-    background: #d45be7;
+    background: #F58220;
   }
 }
 
@@ -1038,7 +1039,7 @@ section {
 .events .event-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #d45be7;
+  color: #F58220;
 }
 
 .events .event-item .price {
@@ -1049,7 +1050,7 @@ section {
 }
 
 .events .event-item .price span {
-  border-bottom: 2px solid #d45be7;
+  border-bottom: 2px solid #F58220;
 }
 
 .events .event-item ul {
@@ -1064,7 +1065,7 @@ section {
 .events .event-item ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #d45be7;
+  color: #F58220;
 }
 
 .events .event-item p:last-child {
@@ -1084,7 +1085,7 @@ section {
 }
 
 .events .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d45be7;
+  background-color: #F58220;
 }
 
 /*--------------------------------------------------------------
@@ -1166,7 +1167,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type=submit] {
-  background: #ff6eff;
+  background: #A6CE39;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1175,7 +1176,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type=submit]:hover {
-  background:#ff6eff;
+  background:#A6CE39;
 }
 
 /*--------------------------------------------------------------
@@ -1211,13 +1212,14 @@ section {
 }
 
 .view-more-row div a{
-  border: 1px solid #ff6eff;
+  border: 1px solid #A6CE39;
   padding: 12px 45px;
+  color: #A6CE39;
   border-radius: 22px;
 }
 
 .view-more-row div a:hover{
-  color: white;
+  color: #A6CE39;
   background-color: black;
   border: 1px solid black;
 }
@@ -1350,7 +1352,7 @@ section {
 }
 
 .chefs .member .social a:hover {
-  color: #d45be7;
+  color: #F58220;
 }
 
 .chefs .member .social i {
@@ -1429,7 +1431,7 @@ section {
 }
 
 .testimonials .testimonial-item .stars {
-  color: #d45be7;
+  color: #F58220;
   margin-bottom: 10px;
 }
 
@@ -1471,7 +1473,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d45be7;
+  background-color: #F58220;
 }
 
 @media (min-width: 992px) {
@@ -1494,7 +1496,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #d45be7;
+  color: #F58220;
   float: left;
   width: 44px;
   height: 44px;
@@ -1523,7 +1525,7 @@ section {
 }
 
 .contact .info:hover i {
-  background: #d45be7;
+  background: #F58220;
   color: #fff;
 }
 
@@ -1591,7 +1593,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #d45be7;
+  background: #F58220;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1627,7 +1629,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #d45be7;
+  color: #F58220;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1660,7 +1662,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #d45be7;
+  background: #F58220;
 }
 
 #footer .copyright {
